@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(253, 253, 253);
+
+}
+
+
+.boton4 {
+    border: 1px solid #eeff01cc; 
+padding: 10px; 
+background-color: #8c00ff; 
+color: #f5e50d; 
+text-decoration: none; 
+text-transform: uppercase; 
+font-family: 'Helvetica', sans-serif;
+border-radius: 50px; 
+   margin-top: 50px;
+
+ }
